@@ -1482,11 +1482,12 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 15rem;
-	width: 15rem;
-	border-radius: 50%;
+	height: 20rem;
+	width: 20rem;
+	border-radius: 450%;
 	margin: .6rem 0 0 0;
 	float: left;
+	object-fit: cover;
 }
 .intro-info .lead {
 	text-align: left;
